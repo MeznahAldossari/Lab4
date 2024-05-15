@@ -1,0 +1,30 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.Welcome {
+  color: blueviolet;
+}
+body p {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  margin: 0 20px;
+}
+hr {
+  border: 3px dashed red;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  background-color: yellow;
+}
+li {
+  display: inline;
+}
